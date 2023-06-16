@@ -1,15 +1,8 @@
 {
   "contacts": [
     {
-      "id": 1,
-      "name": "Balaji",
-      "address": {
-        "street": "FirstStreet",
-        "city": "Tirunelveli",
-        "Contact": {
-          "phone": "123467890"
-        }
+    FirstName: " ",
+    LastName: " ",
       }
-    }
   ]
 }

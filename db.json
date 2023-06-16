@@ -2,8 +2,8 @@
   "contacts": [
     {
     id:1,
-    FirstName: "Balaji",
-    LastName: "M",
+    firstName: "Balaji",
+    lastName: "M",
       }
   ]
 }
